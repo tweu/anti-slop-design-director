@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: ceramics-studio-landing
+expected_outcome: |
+  An index.html one-page site for a local ceramics studio that states what it is and where on the first screen, shows classes with the real price and the booking action, membership, shop and hours, uses a warm direction suited to a local craft studio without shader effects, purple gradients or invented testimonials, plus a DESIGN.md whose tokens match the CSS.

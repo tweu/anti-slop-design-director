@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: forum-thread-list-redesign
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A redesigned threads.html that keeps all six threads and their metadata, reads as a calm course forum, makes unread and unanswered state easy to find, uses no cards nested in cards and no pill-shaped labels, and drops the purple gradient, gradient text and glass.

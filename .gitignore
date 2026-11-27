@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.skill
+*-workspace/
+.DS_Store
+Thumbs.db
